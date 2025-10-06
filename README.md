@@ -45,13 +45,13 @@ Extracted Year, Month, Day from dates.
 
 - **Used Excel Data Analysis ToolPak:**
 
-Descriptive Statistics → Found mean, median, mode, variance, skewness, kurtosis for sales, profit, quantity, etc.
+**Descriptive Statistics** → Found mean, median, mode, variance, skewness, kurtosis for sales, profit, quantity, etc.
 
 Hypothesis Testing (T-Test) →
 
-H₀: Delivery time does not affect order returns.
+**H₀**: Delivery time does not affect order returns.
 
-H₁: Longer delivery time increases return likelihood.
+**H₁**: Longer delivery time increases return likelihood.
 
 ✅ Result: Rejected null hypothesis. Orders with longer delivery times (~2 days more) are significantly more likely to be returned.
 
@@ -109,19 +109,19 @@ The interactive Excel dashboard was designed with KPIs, charts, and slicers to p
 
 ## 🚀 Recommendations
 
-Investigate product quality/logistics issues causing high returns.
+- Investigate product quality/logistics issues causing high returns.
 
-Improve delivery efficiency — focus on reducing >7-day deliveries.
+- Improve delivery efficiency — focus on reducing >7-day deliveries.
 
-Expand marketing efforts in underperforming countries.
+- Expand marketing efforts in underperforming countries.
 
-Leverage midweek promotions to capitalize on peak sales days.
+- Leverage midweek promotions to capitalize on peak sales days.
 
-Encourage digital payments with discounts or cashback offers.
+- Encourage digital payments with discounts or cashback offers.
 
 ## 📫 Connect With Me
 
-GitHub: YourUsername
+**GitHub**: YourUsername
 
-LinkedIn: Your LinkedIn Profile
+**LinkedIn**: Your LinkedIn Profile
 # Retail-store-analysis-excel
