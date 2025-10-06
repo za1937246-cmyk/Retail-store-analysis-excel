@@ -4,7 +4,7 @@
 
 This project analyzes retail store sales data to extract meaningful insights and improve business decision-making. The workflow covers **data cleaning**, **processing**, **statistical analysis**, **automation**, and **dashboard creation** using **Microsoft Excel**.
 
-##🔧 Tools & Techniques Used
+## 🔧 Tools & Techniques Used
 
 - **Microsoft Excel**
 
@@ -20,14 +20,14 @@ This project analyzes retail store sales data to extract meaningful insights and
 
 - **Dashboard:** Pivot Tables, Charts, Slicers, KPIs.
 
-##📂 Project Workflow
-###1️⃣ Data Cleaning
+## 📂 Project Workflow
+### 1️⃣ Data Cleaning
 
 - Removed duplicates and blank records.
 
 - Standardized columns Customer Name, Order Date, Delivery Date, Quantity, Unit Price, Status, Country, etc.
 
-###2️⃣ Data Processing
+### 2️⃣ Data Processing
 
 Created new calculated fields:
 
@@ -41,7 +41,7 @@ Net Profit = Revenue – Cost
 
 Extracted Year, Month, Day from dates.
 
-###3️⃣ Statistical Analysis
+### 3️⃣ Statistical Analysis
 
 - **Used Excel Data Analysis ToolPak:**
 
@@ -55,17 +55,17 @@ H₁: Longer delivery time increases return likelihood.
 
 ✅ Result: Rejected null hypothesis. Orders with longer delivery times (~2 days more) are significantly more likely to be returned.
 
-###4️⃣ Data Entry Form (Automation)
+### 4️⃣ Data Entry Form (Automation)
 
 Created a user-friendly data entry form using Excel Developer & VBA.
 
 Automated process to add new records directly to the dataset.
 
-###5️⃣ KPIs & Dashboard
+### 5️⃣ KPIs & Dashboard
 
 The interactive Excel dashboard was designed with KPIs, charts, and slicers to provide a complete sales overview.
 
-##🔹 Key Performance Indicators (KPIs)
+## 🔹 Key Performance Indicators (KPIs)
 
 **Total Revenue:** $775,811
 
@@ -77,7 +77,7 @@ The interactive Excel dashboard was designed with KPIs, charts, and slicers to p
 
 **Orders Status:** 52% Completed, 48% Returned
 
-##🔹 Dashboard Charts & Visuals
+## 🔹 Dashboard Charts & Visuals
 
 - Revenue by Country (Map Chart) → Shows revenue contribution by region, highlighting top and underperforming markets.
 
@@ -93,9 +93,9 @@ The interactive Excel dashboard was designed with KPIs, charts, and slicers to p
 
 - Slicers (Filters) → Allow filtering by Country and Category for deeper exploration.
 
-##📊 Dashboard Preview:
+## 📊 Dashboard Preview:
 
-###💡 Key Insights
+### 💡 Key Insights
 
 - **High Return Rate:** Nearly 48% of orders are returned, highlighting major customer satisfaction or logistics issues.
 
@@ -107,7 +107,7 @@ The interactive Excel dashboard was designed with KPIs, charts, and slicers to p
 
 - **Delivery Impact:** Late deliveries strongly increase return probability (validated with t-test).
 
-##🚀 Recommendations
+## 🚀 Recommendations
 
 Investigate product quality/logistics issues causing high returns.
 
@@ -119,7 +119,7 @@ Leverage midweek promotions to capitalize on peak sales days.
 
 Encourage digital payments with discounts or cashback offers.
 
-##📫 Connect With Me
+## 📫 Connect With Me
 
 GitHub: YourUsername
 
