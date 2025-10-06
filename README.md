@@ -2,13 +2,13 @@
 # 🛍️ Retail Store Sales Analysis
 ## 📌 Project Overview
 
-This project analyzes retail store sales data to extract meaningful insights and improve business decision-making. The workflow covers data cleaning, processing, statistical analysis, automation, and dashboard creation using Microsoft Excel.
+This project analyzes retail store sales data to extract meaningful insights and improve business decision-making. The workflow covers **data cleaning**, **processing**, **statistical analysis**, **automation**, and **dashboard creation** using **Microsoft Excel**.
 
-🔧 Tools & Techniques Used
+##🔧 Tools & Techniques Used
 
-Microsoft Excel
+- **Microsoft Excel**
 
-Data Cleaning (remove duplicates, blanks)
+- **Data Cleaning:** Remove duplicates, blanks)
 
 Data Processing (calculated fields like delivery time, revenue, profit, costs)
 
